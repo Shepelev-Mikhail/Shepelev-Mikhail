@@ -1,6 +1,6 @@
 ### Привет, меня зовут Михаил! Я начинающий frontend-разработчик.
 
-## Мои цели:
+### Мои цели:
 <ul>
   <li>Cтать профессиональным Frontend-разработчиком</li>
   <li>Работать с опытной командой</li>
@@ -25,5 +25,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" width="40" height="40"/>
 </div>
 
-### Most Used Languages
+### Статистика
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shepelev-Mikhail&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
